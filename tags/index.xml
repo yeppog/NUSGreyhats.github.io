@@ -9,7 +9,34 @@
       <link>https://nusgreyhats.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nusgreyhats.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nusgreyhats.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>secweds</title>
+      <link>https://nusgreyhats.org/tags/secweds/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/tags/secweds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ctf</title>
+      <link>https://nusgreyhats.org/tags/ctf/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/tags/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writeups</title>
+      <link>https://nusgreyhats.org/tags/writeups/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/tags/writeups/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cyberAI</title>
       <link>https://nusgreyhats.org/tags/cyberai/</link>
@@ -20,29 +47,11 @@
     </item>
     
     <item>
-      <title>writeups</title>
-      <link>https://nusgreyhats.org/tags/writeups/</link>
-      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://nusgreyhats.org/tags/writeups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>forensics</title>
       <link>https://nusgreyhats.org/tags/forensics/</link>
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://nusgreyhats.org/tags/forensics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ctf</title>
-      <link>https://nusgreyhats.org/tags/ctf/</link>
-      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nusgreyhats.org/tags/ctf/</guid>
       <description></description>
     </item>
     
@@ -61,15 +70,6 @@
       <pubDate>Sun, 05 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nusgreyhats.org/tags/guides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>secweds</title>
-      <link>https://nusgreyhats.org/tags/secweds/</link>
-      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nusgreyhats.org/tags/secweds/</guid>
       <description></description>
     </item>
     

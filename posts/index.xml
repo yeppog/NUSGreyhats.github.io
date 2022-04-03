@@ -9,7 +9,82 @@
       <link>https://nusgreyhats.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nusgreyhats.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nusgreyhats.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SecWed #060422</title>
+      <link>https://nusgreyhats.org/posts/secweds/ay2122s2/sw0604/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/posts/secweds/ay2122s2/sw0604/</guid>
+      <description>Zoom Link: https://nus-sg.zoom.us/meeting/register/tZ0udeCgqDsoGN2Cm1ujlyxZfFrqYhrramAQ
+Talk 1: 1900Hrs - 1945Hrs Title: A Quick Introduction to Manual Source Code Review
+Description If you are new to web security, or wish to look at open source codebases for 0-days but is unsure of how to, feel free to attend and gain some insights to get started on your own. This sharing is about my experience and bugs discovery while looking at Chamilo LMS.
+Speaker Bio Jia Hao is a Greyhats alumnus and currently a security researcher at STAR Labs.</description>
+    </item>
+    
+    <item>
+      <title>SecWed #230322</title>
+      <link>https://nusgreyhats.org/posts/secweds/ay2122s2/sw2303/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/posts/secweds/ay2122s2/sw2303/</guid>
+      <description>Zoom Link: https://nus-sg.zoom.us/meeting/register/tZ0udeCgqDsoGN2Cm1ujlyxZfFrqYhrramAQ
+SecWed Mini-CTF We&amp;rsquo;ve prepared a few challenges to demonstrate some vulnerable code patterns. Join us to try them out!</description>
+    </item>
+    
+    <item>
+      <title>SecWed #090322</title>
+      <link>https://nusgreyhats.org/posts/secweds/ay2122s2/sw0903/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/posts/secweds/ay2122s2/sw0903/</guid>
+      <description>Zoom Link: https://nus-sg.zoom.us/meeting/register/tZMldeupqD0jHNxJAMT96CIwT1fP84Q-xjGo
+Talk 1: 1900Hrs - 1945Hrs Talk Title: How to build an automated Incident Response and Forensics Readiness Framework on AWS
+This talk aims to provide insights into how you can build and automate incident response and forensics on AWS. This talk aims to show some of the problems our customers were facing and how we helped solve them. This use-case was developed for a customer operating a large set of accounts.</description>
+    </item>
+    
+    <item>
+      <title>SecWed #090222</title>
+      <link>https://nusgreyhats.org/posts/secweds/ay2122s2/sw0902/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/posts/secweds/ay2122s2/sw0902/</guid>
+      <description>Zoom Link: https://nus-sg.zoom.us/meeting/register/tZAqf-qgpzsqE9QRODBP6oPRA0PzkPAaTFFz
+Talk: 7:00pm-7:45pm Title: Breach and Attack Simulation (Security Validation)
+  Description How sure are we if our cyber security investments is improving the actual security effectiveness? Find out how Breach and Attack Simulation (Security Validation) continuously validate and measures the effectiveness of cybersecurity controls.
+Speaker Bio Ragavan is a Cyber Security Presales Engineer since 2014. He focuses on cyber solutioning in government space and recently joined Mandiant.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Android App Reversing</title>
+      <link>https://nusgreyhats.org/posts/writeups/introduction-to-android-app-reversing/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/posts/writeups/introduction-to-android-app-reversing/</guid>
+      <description>A beginner&amp;#39;s guide on reversing android applications</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Burp Suite</title>
+      <link>https://nusgreyhats.org/posts/writeups/intro-to-burp/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/posts/writeups/intro-to-burp/</guid>
+      <description>What, why, and how of Burp</description>
+    </item>
+    
+    <item>
+      <title>SecWed #260122</title>
+      <link>https://nusgreyhats.org/posts/secweds/ay2122s2/sw2601/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://nusgreyhats.org/posts/secweds/ay2122s2/sw2601/</guid>
+      <description>Zoom Link: https://nus-sg.zoom.us/meeting/register/tZAqf-qgpzsqE9QRODBP6oPRA0PzkPAaTFFz
+Talk: 7:00pm-7:45pm Title: An introduction to container hacking
+  Description Now that containers, Docker and Kubernetes are everywhere, we have to ask the most important question &amp;lsquo;how do we hack them!&amp;rsquo; . This talk will take a look at some of the underpinnings of how these systems work, to give you ideas on where to start and then look at some classic container hacking techniques.
+Speaker Bio Rory has worked in the Information and IT Security arena for the last 21 years in a variety of roles.</description>
+    </item>
+    
     <item>
       <title>Simple ML models to predict CVSS scores</title>
       <link>https://nusgreyhats.org/posts/writeups/simple-ml-models-to-predict-cvss-scores/</link>
@@ -208,7 +283,7 @@ Description Cyberspace will be increasingly central to maintaining Singapore’s
       <guid>https://nusgreyhats.org/posts/secweds/ay2122s1/sw1108/</guid>
       <description>Talk 1: 1900Hrs - 1945Hrs Talk Title: Greyhats Introduction
 Do you find yourself wondering what the Greyhats team is often up to? Want to get to know more about the information security industry? Want to further hone your information security skills? 🖥 🚀
-Learn more about NUS&#39; first and only information security interest group and the various activities that we embark on together! Join us at our welcome tea on 11 August 2021 from 7pm to 8.</description>
+Learn more about NUS&amp;rsquo; first and only information security interest group and the various activities that we embark on together! Join us at our welcome tea on 11 August 2021 from 7pm to 8.</description>
     </item>
     
   </channel>
